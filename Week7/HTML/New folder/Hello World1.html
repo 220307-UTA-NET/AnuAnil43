@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html>
     <!-- this is a comment in html -->
+    <!-- HTML is teh structure of a webpage, and is made up of elements.
+    Elements are denoted by a tag, which wraps teh content of the element. -->
     <head>
         <!-- the head of a html document is where we find -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title> myFirstHTML </title>
-        <!-- the <title> tag let us change the title of the browser tab -->
+      <!-- the <title> tag let us change the title of the browser tab -->
+       <link rel="stylesheet" href="./main.css">
+       <!-- the link tag allows us to reference other resources of the page-->
     </head> <!-- Don't forget to close your tags! -->
 
     <body>
@@ -14,21 +18,56 @@
         <!-- html generally ignores whitespace like line breaks -->
         but it's better to use elements to contain your text.
         <br> <!-- this is a line break tag!!-->
-        <br>
-        Now at least I have a new line!
 
-        <div> 
+        <!-- there is a heirarchy of styling applied to our elements -->
+        <!-- anything with the <p> tag but no other styling will get this applied to it-->
+        <style>
+         p {
+              /* now that i am working with the <style> tags,i am writing in CSS, a completely different language -->
+                CSS is a language that describes how to style your page
+              */
+              /* tag selector - this allows us to target a type of element by the tag we use in HTML */  
+              color:orange
+           }
+           .class { /* class style override tag style */
+            /* class selector - this allows us to target a specific element by the class we use in HTML */
+               background-color: blue;
+               color:black;
+           }
+           #thisthing{
+               background-color: red;
+               color: white;
+           }
+
+        </style>
+        <br>
+        <div>
+            <p id="boxmodel"> This is our box model object.</p>
+        </div>
+        <p style="color:blue;">
+            Now at least I have a new line! <br>
+            Now anything in this paragraph will also have the same styling applied.<br>
+            How can I apply styling to a single line or a portion of an element without having to effect the <br>
+            <span style="color:red; font-size:12pt">What if I want this line to be red?></span><br>
+            <!-- span/inline styling allows us to override any element styling-->
+            <span style="font-size:12pt">And I want this line to resume the same style as above.</span><br>
+            <span style="font-size:12em">And I want this line to resume the same style as above.</span><br>
+        </p>
+        <br>
+        <br>
+        <div class="class"> 
             Div elements are used to contain other elements, and group them together.  
         </div>
-        <div>
+        <br>
+        <div class="class" id="thisthing">
             This is a different div element, with other elements inside of it.
             <p> This is a paragraph within a div!</p>
             <h6> And here is a heading within the same one!</h6>
         </div>
-         <h1> Hello World </h1>
+         <h1 id="thisotherthing"> Hello World </h1>
          <h2> This is an h2 element. </h2>
          <h3> This is an h3 element </h3>
-         <p> Hello Again! </p>
+         <p class="class"> Hello Again! </p>
          <a href="https://www.google.com">This is a link!</a>
     <!-- Tags can be used to wrap multiple elements (like head and body), or
     they can wrap a single element to add functionality or structure (like
