@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StoreApplication.Api\\StoreApplication.Api",
+    "\\StoreApplicationApp.Console\\StoreApplication.ConsoleApp",
+    "\\StoreApplicationApp.Console\\StoreApplication.ConsoleApp\\StoreApplication.ConsoleApp",
+    "\\StoreApplicationApp.Console\\StoreApplication.ConsoleApp\\StoreApplicationApp.UI",
+    "\\StoreApplicationApp.Console\\StoreApplication.ConsoleApp\\StoreApplicationApp.UI\\DTOs"
+  ],
+  "SelectedNode": "\\StoreApplicationApp.Console",
+  "PreviewInSolutionExplorer": false
+}

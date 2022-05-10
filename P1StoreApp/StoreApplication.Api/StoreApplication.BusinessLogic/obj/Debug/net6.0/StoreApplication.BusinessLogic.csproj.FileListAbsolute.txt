@@ -1,0 +1,12 @@
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\bin\Debug\net6.0\StoreApplication.BusinessLogic.deps.json
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\bin\Debug\net6.0\StoreApplication.BusinessLogic.dll
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\bin\Debug\net6.0\StoreApplication.BusinessLogic.pdb
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\obj\Debug\net6.0\StoreApplication.BusinessLogic.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\obj\Debug\net6.0\StoreApplication.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\obj\Debug\net6.0\StoreApplication.BusinessLogic.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\obj\Debug\net6.0\StoreApplication.BusinessLogic.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\obj\Debug\net6.0\StoreApplication.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\obj\Debug\net6.0\StoreApplication.BusinessLogic.dll
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\obj\Debug\net6.0\refint\StoreApplication.BusinessLogic.dll
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\obj\Debug\net6.0\StoreApplication.BusinessLogic.pdb
+C:\Dotnet\AnuAnil\Projects\StoreApp\StoreApplication.Api\StoreApplication.BusinessLogic\obj\Debug\net6.0\ref\StoreApplication.BusinessLogic.dll
