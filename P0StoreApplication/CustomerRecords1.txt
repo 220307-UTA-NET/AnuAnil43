@@ -1,0 +1,30 @@
+Friday, April 1, 2022 10:54:03 PM	1	Anu	Thekkekattil	1234567890	Groceries	Walmart
+Friday, April 1, 2022 10:54:03 PM	2	Rupa	Anu	126543733	Accessories	Walmart
+Friday, April 1, 2022 10:54:03 PM	3	Anil	Villamkandathil	987654321	GardenSupply	Walmart
+Friday, April 1, 2022 10:54:03 PM	4	Avyukth	Anil	12344566	Toys	Walmart
+Friday, April 1, 2022 10:54:03 PM	5	Arnav	Anil	987654333	Clothes	Walmart
+1	Anu	Thekkekattil	1234567890	Groceries	Walmart
+2	Rupa	Anu	126543733	Accessories	Walmart
+3	Anil	Villamkandathil	987654321	GardenSupply	Walmart
+4	Avyukth	Anil	12344566	Toys	Walmart
+5	Arnav	Anil	987654333	Clothes	Walmart
+1	Anu	Thekkekattil	1234567890	Groceries	Walmart
+2	Rupa	Anu	126543733	Accessories	Walmart
+3	Anil	Villamkandathil	987654321	GardenSupply	Walmart
+4	Avyukth	Anil	12344566	Toys	Walmart
+5	Arnav	Anil	987654333	Clothes	Walmart
+1	Anu	Thekkekattil	1234567890	Groceries	Walmart
+2	Rupa	Anu	126543733	Accessories	Walmart
+3	Anil	Villamkandathil	987654321	GardenSupply	Walmart
+4	Avyukth	Anil	12344566	Toys	Walmart
+5	Arnav	Anil	987654333	Clothes	Walmart
+1	Anu	Thekkekattil	1234567890	Groceries	Walmart
+2	Rupa	Anu	126543733	Accessories	Walmart
+3	Anil	Villamkandathil	987654321	GardenSupply	Walmart
+4	Avyukth	Anil	12344566	Toys	Walmart
+5	Arnav	Anil	987654333	Clothes	Walmart
+1	Anu	Thekkekattil	1234567890	Groceries	Walmart	50
+2	Rupa	Anu	126543733	Accessories	Walmart	100
+3	Anil	Villamkandathil	987654321	GardenSupply	Walmart	200
+4	Avyukth	Anil	12344566	Toys	Walmart	25
+5	Arnav	Anil	987654333	Clothes	Walmart	20
